@@ -20,3 +20,18 @@ body
    background-size: cover;
    border-width: 10px;
  }
+
+ div
+ {
+   background-color: blueviolet;
+   text-align: center;
+   width: 200px;
+   border-style:inset;
+   border-color: cadetblue;
+   font-family: monospace;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-position: center;
+   background-size: cover;
+   border-width: 10px;
+ }
